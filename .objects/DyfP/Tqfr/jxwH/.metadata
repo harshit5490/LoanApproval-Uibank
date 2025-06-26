@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Create Loan Account",
+  "Type": "Screen",
+  "Id": "jxwHnbgbgEWq7kfOp_eBpg",
+  "Reference": "KgwMGxv9N0WFMKz3Y7BMrw/jxwHnbgbgEWq7kfOp_eBpg",
+  "ParentRef": "KgwMGxv9N0WFMKz3Y7BMrw/TqfrUNcqsUuygpETLknxLA",
+  "Created": "2025-06-13T07:54:18.6889769Z",
+  "Updated": "2025-06-13T07:54:18.6889769Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

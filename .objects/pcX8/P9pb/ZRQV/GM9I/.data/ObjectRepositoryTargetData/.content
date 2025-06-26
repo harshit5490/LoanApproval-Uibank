@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zX3mlIagNEO_P-0HdgKPBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts" CVScreenId="53c6ea04-63ef-44d3-94e7-93aaf8e8f404" CvTextArea="1574, 254, 49, 22" CvTextArgument="Login" CvType="Text" DesignTimeRectangle="1568, 242, 63, 43" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Login' tag='A' type='' class='nav-link text-dark' check:innerText='Login' /&gt;" Guid="7274d003-f18b-4173-9602-a7edd1b2fd5b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank - Accounts' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="53c6ea04-63ef-44d3-94e7-93aaf8e8f404" CvTextArea="329, 245, 142, 39" CvTextArgument="UiBank" CvType="Text" DesignTimeRectangle="311, 224, 181, 78" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl tag='IMG' type='' class='vertical-center' aaname='' /&gt;" Guid="651ec44d-8c79-426f-911a-cfadb59285e3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f830fed1947e6ed6ec55751ece41a9a2.png" xmlns="">0Hh6QXJ1egEChlBlk4qLrow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

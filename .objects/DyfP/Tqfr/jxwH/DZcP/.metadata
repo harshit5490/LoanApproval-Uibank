@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Account Successfully Created Or Not",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "DZcPS75CZECWRHCb-j6WNA",
+  "Reference": "KgwMGxv9N0WFMKz3Y7BMrw/DZcPS75CZECWRHCb-j6WNA",
+  "ParentRef": "KgwMGxv9N0WFMKz3Y7BMrw/jxwHnbgbgEWq7kfOp_eBpg",
+  "Created": "2025-06-13T09:01:17.3845953Z",
+  "Updated": "2025-06-13T09:01:17.3845953Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

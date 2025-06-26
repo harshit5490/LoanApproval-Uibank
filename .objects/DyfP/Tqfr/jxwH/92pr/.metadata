@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get started with a UiBa…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "92prahpP7kCsXETdESql_w",
+  "Reference": "KgwMGxv9N0WFMKz3Y7BMrw/92prahpP7kCsXETdESql_w",
+  "ParentRef": "KgwMGxv9N0WFMKz3Y7BMrw/jxwHnbgbgEWq7kfOp_eBpg",
+  "Created": "2025-06-14T06:50:34.6704842Z",
+  "Updated": "2025-06-14T06:50:34.6704842Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

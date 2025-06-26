@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Create Loan Account",
+  "Type": "App",
+  "Id": "DyfPQ58EkEaZ9aegKFzPUQ",
+  "Reference": "KgwMGxv9N0WFMKz3Y7BMrw/DyfPQ58EkEaZ9aegKFzPUQ",
+  "Created": "2025-06-13T07:54:18.6491851Z",
+  "Updated": "2025-06-13T07:54:18.6491851Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

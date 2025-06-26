@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bexXi6-eO0iiVK7_Z1FY6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="e6f4b9ea-7055-4f51-8391-2a9608b46093" CvTextArea="569, 717, 90, 21" CvTextArgument="login failed" CvType="Text" DesignTimeRectangle="443, 715, 345, 39" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='login-error' tag='DIV' type='' aaname=' login failed ' check:innerText='login failed' /&gt;" Guid="219b7916-ad70-438e-9226-acd2e85b8fc7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e6f4b9ea-7055-4f51-8391-2a9608b46093" CvTextArea="908, 695, 175, 58" CvTextArgument="today!" CvType="Text" DesignTimeRectangle="906, 694, 177, 60" ElementType="Text" Guid="36b65c68-1c31-4b8e-bbc1-76a7f0d355b7" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b04218c16d7db69a22a134fa87373110.png" xmlns="">01IcN2N1GTkGAtVyv7bZrhw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

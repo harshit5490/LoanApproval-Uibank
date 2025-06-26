@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zk98rIqQAEaLKWoT_j9zTQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" DesignTimeRectangle="383, 520, 1153, 135" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='text-white title' aaname=' Get started with a UiBank checking or savings account today! ' check:innerText='Get started with a UiBank checking or savings account today!' /&gt;" Guid="f5c64129-d340-4662-b186-d29456b8deef" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3b293a73-54af-4fe7-9611-beeaa943d5a3" CvTextArea="627, 665, 663, 24" CvTextArgument="*Open an new account in the next 30 days and receive $50 on us!" CvType="Text" DesignTimeRectangle="383, 663, 1153, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H5' type='' class='text-white' aaname=' *Open an new account in the next 30 days and receive $50 on us! ' check:innerText='*Open an new account in the next 30 days and receive $50 on us!' /&gt;" Guid="343b9cd1-d44e-480d-a24b-c8e601bac8d6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="49a6dfd124c17605e7f57f6d2b7d44f4.png" xmlns="">0wIkkX2zoyUK_McOfh5uHKA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t_O3p9au9U2PvTd6YBNAPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts" DesignTimeRectangle="415, 777, 737, 96" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl class='account-card' type='' tag='DIV' aaname='' /&gt;" Guid="fae45ecd-cfd8-48f9-81be-6a080a850fc6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank - Accounts' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="431, 793, 705, 64" FuzzySelectorArgument="&lt;webctrl class='account-detail-container' type='' tag='DIV' aaname='' check:innerText='ManasTiwariosheen209@gmail.com&amp;#xA;......c194&amp;#xA;Account Balance:&amp;#xA;$100.00' /&gt;" Guid="e37c78c6-4227-4c21-862d-130d743f7688" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="889072da1111af8991642f05505d7c9a.png" xmlns="">03TGgJLoMhk6m8IqH4MVpMQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x41QNfHPOk63CwAquw9Ktw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cloud.uipath.com/centesdwkmsc/DefaultTenant/orchestrator_/queues/1107158/transactions(sidepanel:sidepanel/transactions/625288655/details)" CVScreenId="4a95067c-edc5-49a7-8a80-12d7553cd2a3" CvTextArea="771, 407, 372, 79" CvTextArgument="Congrats!" CvType="Text" DesignTimeRectangle="385, 395, 1149, 86" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='text-center text-white header' aaname=' Congrats! ' check:innerText='Congrats!' /&gt;" Guid="e81e0b92-40eb-45af-9be5-dc598ae030d4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="385, 493, 1149, 144" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H1' class='text-center text-white' aaname=' You&amp;apos;ve been approved for a loan with UiBank! ' check:innerText='You&amp;apos;ve been approved for a loan with UiBank!' /&gt;" Guid="9480214a-88fb-4aa3-af11-5336f8338e4a" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ff150ab35f08a9331fe42ec8af7b30bc.png" xmlns="">05rV8-7SelkK21ucm11WSkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

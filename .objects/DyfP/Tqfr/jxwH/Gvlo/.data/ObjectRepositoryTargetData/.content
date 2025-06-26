@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1ivKMlmQv0Ku5abJMFPihw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="02e45895-6249-4f60-8cc7-17a654f8a308" CvElementArea="703, 739, 511, 56" CvType="InputBox" DesignTimeRectangle="705, 740, 509, 54" DesignTimeScaleFactor="1" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='term' tag='SELECT' type='number' class='form-control uibank-input select-color ng-pristine ng-invalid ng-touched' aaname='' /&gt;" Guid="023190da-43db-41ff-96a5-2d0908207056" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan Apply' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="02e45895-6249-4f60-8cc7-17a654f8a308" CvTextArea="702, 723, 62, 12" CvTextArgument="Loan Term" CvType="Text" DesignTimeRectangle="705, 721, 59, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Loan Term' tag='LABEL' type='' class='uibank-label' check:innerText='Loan Term' /&gt;" Guid="1846ea10-d792-4b61-9a21-097ddecd141b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d7dcb913a635c8ead444d7833fbe8f01.png" xmlns="">0JYGjpiLqnk6VlkD5B_D0VA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

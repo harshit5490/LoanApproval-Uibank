@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jJ_0vEgfBkGPnwGtlHGvnA" Reference="KgwMGxv9N0WFMKz3Y7BMrw/DZcPS75CZECWRHCb-j6WNA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/684c35dcf41a7d0049dac56b/11/true" CVScreenId="b9546d5c-2afb-4dde-8ef8-5d24b6ff0328" DesignTimeRectangle="375, 502, 1192, 48" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname='*You* been approved for a loan with UiBank*' /&gt;" Guid="88af4a74-52f3-46b9-b845-968e3b287d59" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b9546d5c-2afb-4dde-8ef8-5d24b6ff0328" CvTextArea="845, 363, 249, 55" CvTextArgument="Congrats!" CvType="Text" DesignTimeRectangle="375, 436, 1192, 58" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H1' aaname='*Congrats*' /&gt;" Guid="dc5e4899-a5a0-4892-81c2-378ee125f85c" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d0680e7263f739dd0dd0a3956728bb56.png" xmlns="">0bldI-hU5LkqxRAmzANQuoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

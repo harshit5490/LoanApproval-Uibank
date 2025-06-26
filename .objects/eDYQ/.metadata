@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Open Uibank Accounts",
+  "Type": "App",
+  "Id": "eDYQBF1SIEiS9EBzLn7XoA",
+  "Reference": "KgwMGxv9N0WFMKz3Y7BMrw/eDYQBF1SIEiS9EBzLn7XoA",
+  "Created": "2025-06-13T10:19:15.0037784Z",
+  "Updated": "2025-06-13T10:19:15.0037784Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="INwCrB3DIEiJrPCJoIW3UQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans" CVScreenId="7443ca5e-4e17-4943-80c0-9e62fa992e18" CvElementArea="747, 674, 185, 53" CvTextArea="770, 690, 138, 21" CvTextArgument="Apply For A Loan" CvType="Button" DesignTimeRectangle="749, 675, 182, 50" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='applyButton' tag='BUTTON' type='submit' class='btn btn-white btn-xl' aaname='Apply For A Loan' check:innerText='Apply For A Loan' /&gt;" Guid="374d9f68-8d37-4693-8c83-7c5efd59c919" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan Home' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7443ca5e-4e17-4943-80c0-9e62fa992e18" CvTextArea="711, 582, 517, 16" CvTextArgument="Use our loan calculator to see if you qualify for a loan with UiBank" CvType="Text" DesignTimeRectangle="714, 579, 514, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname=' Use our loan calculator to see if you qualify for a loan with UiBank ' check:innerText='Use our loan calculator to see if you qualify for a loan with UiBank' /&gt;" Guid="abd7f05f-7916-4521-b3b9-90305fdb308d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1cb2fbc82394e29d661d695626b3c5f3.png" xmlns="">0JvxCRTGjKkiUieXv4Z3Dhg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

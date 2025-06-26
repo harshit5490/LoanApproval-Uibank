@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_F8Ko_qyHkeO4FPoiZjtFw" Reference="KgwMGxv9N0WFMKz3Y7BMrw/97jKEZEzhEehwfrUN43grw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="fc3d8633-bb17-4e98-b87d-8372226b7417" CvElementArea="774, 749, 371, 79" CvTextArea="807, 774, 303, 30" CvTextArgument="Submit Loan Application" CvType="Button" DesignTimeRectangle="837, 953, 245, 50" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname='Submit Loan Application' /&gt;" Guid="f2f30e46-8f90-4a51-a4d1-d0cbcdb3b647" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan Apply' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fc3d8633-bb17-4e98-b87d-8372226b7417" CvElementArea="774, 749, 371, 79" CvTextArea="807, 774, 303, 30" CvTextArgument="Submit Loan Application" CvType="Button" DesignTimeRectangle="837, 953, 245, 50" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='submitButton' tag='BUTTON' type='submit' class='btn btn-white' aaname='Submit Loan Application' check:innerText='Submit Loan Application' /&gt;" Guid="e803baef-6e5d-4f2a-8019-e647f758292b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d5c2b72a9b78958f5a16afe3145bdc87.png" xmlns="">06EUcGmTu0k-adO6zd3KtHw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

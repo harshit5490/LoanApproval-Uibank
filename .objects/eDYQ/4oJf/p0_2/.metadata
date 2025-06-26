@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open Uibank Accounts",
+  "Type": "Screen",
+  "Id": "p0_2HQvsLk-Jb63JAQlliQ",
+  "Reference": "KgwMGxv9N0WFMKz3Y7BMrw/p0_2HQvsLk-Jb63JAQlliQ",
+  "ParentRef": "KgwMGxv9N0WFMKz3Y7BMrw/4oJfwBhBQUuPi4C-Hbi_ZA",
+  "Created": "2025-06-13T10:19:15.0489247Z",
+  "Updated": "2025-06-13T10:19:15.0489247Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

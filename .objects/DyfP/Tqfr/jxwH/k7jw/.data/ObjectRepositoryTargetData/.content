@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="b9knNTT2RkC65_5Zc5oXtQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/684c403df41a7d0049dac5ed/11/true" CVScreenId="e3dc41df-9756-467a-9d76-7a4855dc1a16" CvTextArea="924, 591, 91, 23" CvType="AnyWordGroup" DesignTimeRectangle="375, 590, 1192, 29" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='rate' tag='H4' type='' class='text-black' /&gt;" Guid="7dee7ca7-5330-4a48-a0ab-3bb82ac89911" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e3dc41df-9756-467a-9d76-7a4855dc1a16" CvTextArea="851, 560, 238, 19" CvTextArgument="With a fantastic rate of:" CvType="Text" DesignTimeRectangle="375, 558, 1192, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H5' type='' class='text-white' aaname=' With a fantastic rate of: ' check:innerText='With a fantastic rate of:' /&gt;" Guid="f5cd0df6-e292-47af-8298-48d32016873b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="55236da3d967462e98f288609e1b8fe4.png" xmlns="">07u2vdGmaMkefIRIxtsrFTQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

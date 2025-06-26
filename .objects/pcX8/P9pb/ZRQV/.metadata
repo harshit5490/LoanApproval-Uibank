@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open Uibank",
+  "Type": "Screen",
+  "Id": "ZRQVKnntf0SjwUPc8qH6KA",
+  "Reference": "KgwMGxv9N0WFMKz3Y7BMrw/ZRQVKnntf0SjwUPc8qH6KA",
+  "ParentRef": "KgwMGxv9N0WFMKz3Y7BMrw/P9pbzdF_HECmAWiPIZnwCg",
+  "Created": "2025-06-13T06:48:59.6864968Z",
+  "Updated": "2025-06-13T06:48:59.6864968Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

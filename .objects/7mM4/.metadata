@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Close Ui Bank",
+  "Type": "App",
+  "Id": "7mM4vQnfC0qg2eKd7t7wXQ",
+  "Reference": "KgwMGxv9N0WFMKz3Y7BMrw/7mM4vQnfC0qg2eKd7t7wXQ",
+  "Created": "2025-06-13T13:23:37.1962147Z",
+  "Updated": "2025-06-13T13:23:37.1962147Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

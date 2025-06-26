@@ -1,0 +1,19 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "value": {
+        "folderPath": {
+          "defaultValue": "harshitguptacentelli5490@gmail.com's workspace",
+          "isExpression": false
+        }
+      },
+      "metadata": {
+        "BindingsVersion": "2.1",
+        "ActivityName": "Get Asset From Orchestrator",
+        "DisplayLabel": "FullName"
+      }
+    }
+  ]
+}
