@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DftjJkEku0eHr8WlgL0dIw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts" CVScreenId="1f6d539f-16b0-4f6d-b664-ed4e65bee1bc" CvElementArea="969, 500, 476, 80" CvTextArea="1064, 528, 288, 28" CvTextArgument="Apply For New Account" CvType="Button" DesignTimeRectangle="973, 503, 471, 74" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Apply For New Account ' tag='DIV' /&gt;" Guid="b274487f-d968-4ca3-9e78-2125a109763c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank - Accounts' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1f6d539f-16b0-4f6d-b664-ed4e65bee1bc" CvElementArea="969, 500, 476, 80" CvType="Button" DesignTimeRectangle="427, 425, 1065, 182" FuzzySelectorArgument="&lt;webctrl class='card-header' tag='DIV' type='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Welcome!&amp;#xA;&amp;#xA;Here is your account summary:&amp;#xA;&amp;#xA;Apply For New Account' /&gt;" Guid="ba3dd009-9aeb-4926-9913-7a99447eda91" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="51bc94f197eb85becaf61e06c44e5fdd.png" xmlns="">0koQoPsnbI0eH2WA-4ViNNg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

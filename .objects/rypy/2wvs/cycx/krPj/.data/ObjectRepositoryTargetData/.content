@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1Obu_B8crUeqzjicJ-Yerg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="a7a682ee-b938-4cac-801f-bc9f0f0ee31e" CvElementArea="826, 731, 266, 53" CvTextArea="849, 747, 201, 21" CvTextArgument="Lagree to the Privacy Policy" CvType="Button" DesignTimeRectangle="828, 732, 263, 50" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='I agree to the Privacy Policy →' parentid='mat-mdc-dialog-0' tag='BUTTON' type='button' class='btn center-button btn-black' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='I agree to the Privacy Policy →' /&gt;" Guid="c8dd5de0-60c5-4add-b884-efe2a7ec3f85" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a7a682ee-b938-4cac-801f-bc9f0f0ee31e" CvTextArea="761, 660, 395, 25" CvTextArgument="Please see here the full Privacy Policy" CvType="Text" DesignTimeRectangle="761, 660, 395, 25" ElementType="Text" Guid="22d96da7-395d-4ddb-afef-04e97ab655ea" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9ff7870d171ca98c05a5bcd469ec1dc6.png" xmlns="">02Yt36kyDqE6H7wfOOC4vPw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

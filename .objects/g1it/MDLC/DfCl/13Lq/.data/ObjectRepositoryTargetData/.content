@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sK7Psj_0bEucvZSLgMzXiA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts" CVScreenId="3cffc00c-ba49-433d-b45d-9bd91bfb76e2" CvTextArea="1541, 255, 63, 21" CvTextArgument="Logout" CvType="Text" DesignTimeRectangle="1534, 242, 77, 43" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Logout' tag='A' /&gt;" Guid="a5e806de-14d2-4d5c-9001-5a7400d6fa1b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank - Accounts' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3cffc00c-ba49-433d-b45d-9bd91bfb76e2" CvTextArea="326, 245, 142, 39" CvTextArgument="UiBank" CvType="Text" DesignTimeRectangle="308, 224, 181, 78" ElementType="Icon" FullSelectorArgument="&lt;webctrl tag='IMG' /&gt;" Guid="01aced75-0d75-4e5c-a53a-2cf8b3ca1a3b" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="aab9c5e0d54806b5906eacdd6286ca1a.png" xmlns="">0HKZVvXpyGE69QXPLwPYZ3g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

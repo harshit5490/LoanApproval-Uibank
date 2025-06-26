@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Browser",
+  "Type": "App",
+  "Id": "rypy_zCmSEaGNPF0sasc-Q",
+  "Reference": "ohHhlcTNwEWWcv33plNgoQ/rypy_zCmSEaGNPF0sasc-Q",
+  "Created": "2025-06-12T08:30:15.7168217Z",
+  "Updated": "2025-06-12T08:30:15.7168217Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiBank-Apply",
+  "Type": "Screen",
+  "Id": "127U5dlA-kman36zdWzn9w",
+  "Reference": "ohHhlcTNwEWWcv33plNgoQ/127U5dlA-kman36zdWzn9w",
+  "ParentRef": "ohHhlcTNwEWWcv33plNgoQ/B259NScx1EmnjpeYHOsX1w",
+  "Created": "2025-06-12T13:26:58.9548721Z",
+  "Updated": "2025-06-12T13:26:58.9548721Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
